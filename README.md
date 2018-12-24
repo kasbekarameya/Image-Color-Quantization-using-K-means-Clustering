@@ -8,7 +8,7 @@ The main goal of this project is to develop a strong understanding regarding the
 K-Means is one of the simplest unsupervised learning algorithms that solve the clustering problems. The procedure follows a simple and easy way to classify a given data set through a certain number of clusters (assume k clusters). The main idea is to define k centers, one for each cluster.
 
 ### Algorithm
-To start with k-means algorithm, you first have to randomly initialize points called the cluster centroids (K). K-means is an iterative algorithm and it does two steps: 1. Cluster assignment 2. Move centroid step.</br>
+To start with k-means algorithm, you first have to randomly initialize points called the cluster centroids (K). K-means is an iterative algorithm and it does two steps:</br>
 **1. Cluster assignment**
 
 The algorithm goes through each of the data points and depending on which cluster is closer, It assigns the data points to one of the three cluster centroids.
