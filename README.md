@@ -10,6 +10,7 @@ K-Means is one of the simplest unsupervised learning algorithms that solve the c
 ### Algorithm
 To start with k-means algorithm, you first have to randomly initialize points called the cluster centroids (K). K-means is an iterative algorithm and it does two steps: 1. Cluster assignment 2. Move centroid step.</br>
 **1. Cluster assignment**
+
 The algorithm goes through each of the data points and depending on which cluster is closer, It assigns the data points to one of the three cluster centroids.
 
 **2. Move centroid**
@@ -30,6 +31,7 @@ Based on the steps I developed a K-Mean Clustering Algorithm from scratch and th
 <p align="center">
 <img src="Images/4.png">
 </p> 
+
 ## Color Quantization
 
 Color quantization is the process of reducing the number of distinct colors used in an image. The main reason we may want to perform this kind of compression is to enable the rendering of an image in devices supporting only a limited number of colors (usually due to memory limitations).</br>
