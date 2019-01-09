@@ -1,7 +1,7 @@
 # Image-Color-Quantization-using-K-means-Clustering
 This is a project completed by me for Computer Vision and Image Processing course during my MS at University at Buffalo
 </br></br>
-The main goal of this project is to develop a strong understanding regarding the various concepts of processing the image such as Morphology and Image Segmentation, Point Detection, Hough transform and then using these concepts accomplish tasks such as Line & Coins Detection. It also aims at allowing the student to develop a strong understanding regarding how the basic operations like Updating Centroids in K-means Clustering work at a unit level.
+The main goal of this project is to develop a strong understanding regarding the various concepts of processing the image such as Morphology and Image Segmentation, Point Detection, Hough transform and then using these concepts accomplish tasks such a Image Color Quantization. It also aims at allowing the student to develop a strong understanding regarding how the basic operations like Updating Centroids in K-means Clustering work at a unit level.
 
 ## K-Means Clustering Algorithm
 
